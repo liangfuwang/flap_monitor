@@ -1,6 +1,16 @@
-# Flap Monitor
+<p align="center">
+  <img src="logo.svg" alt="Flap Monitor" width="320">
+</p>
 
-Flap.sh Gift Vault 认领状态监控工具。监控 BSC 链上 Flap.sh 平台 Gift Vault 的状态变化，通过 Telegram 实时告警。
+<p align="center">
+  BSC 链上 Flap.sh Gift Vault 认领状态监控工具，通过 Telegram 实时告警。
+</p>
+
+<p align="center">
+  <a href="https://flap.liangfuwang.xyz/">🔗 在线访问</a>
+</p>
+
+![Flap Monitor 界面截图](screenshot.png)
 
 ## 功能
 

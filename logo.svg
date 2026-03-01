@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6" />
+      <stop offset="100%" style="stop-color:#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="80" rx="12" fill="url(#bg)"/>
+  <!-- Radar/Monitor icon -->
+  <circle cx="46" cy="40" r="18" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.3"/>
+  <circle cx="46" cy="40" r="12" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.5"/>
+  <circle cx="46" cy="40" r="5" fill="url(#accent)"/>
+  <line x1="46" y1="40" x2="58" y2="28" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="76" y="36" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#f1f5f9" letter-spacing="-0.5">Flap</text>
+  <text x="144" y="36" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="url(#accent)" letter-spacing="-0.5">Monitor</text>
+  <text x="76" y="56" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#94a3b8" letter-spacing="0.5">Gift Vault Status Monitor</text>
+</svg>
